@@ -177,10 +177,10 @@ DevOps Engineers build and maintain the infrastructure and automation that enabl
 
 ---
 
-## Support Leads
+## Support Lead
 
 ### Role Summary
-Support Leads manage customer support operations and serve as the voice of the customer. They ensure timely issue resolution, capture feedback, and work with product and engineering to address systemic problems.
+Support Lead manages customer support operations and serves as the voice of the customer. They ensure timely issue resolution, capture feedback, and work with product and engineering to address systemic problems.
 
 ### Responsibilities
 - Manage support team operations and ticket workflows
